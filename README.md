@@ -62,6 +62,4 @@ This project includes several robustness fixes from a senior code review:
 
 ## Screenshot
 
-Add a screenshot of your running app here after opening `index.html` in a browser.
-
-Suggested filename: `screenshot.png`
+![Todo App Screenshot](screenshots/todo-app.png)
